@@ -163,7 +163,7 @@ public class myFrame extends JFrame implements ActionListener {
 
         if(e.getSource() == saveItem){
 
-            String filePath = "C:\\Users\\GSage\\Documents\\";
+            String filePath = "C:\\Users\\User\\Documents\\";
             String fileName = "Notepad.txt";
             File file = new File(filePath + fileName);
 
